@@ -1,0 +1,8 @@
+3. Jelaskan apa yang anda tau tentang Git
+    Git adalah sebuah version controller, fungsinya untuk mencatat setiap perubahan pada file yang dikerjakan
+
+4. Jelaskan apa yang anda tau tentang Docker
+    Docker adalah software container yang didalamnya terdapat file pendukung atau image yang dibutuhkan untuk menjalankan sebuah aplikasi
+
+5. Jelaskan apa yang anda tau tentang Kubernetes
+    platform yang digunakan untuk melakukan manajemen pada container / container orchestration
